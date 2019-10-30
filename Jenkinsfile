@@ -15,7 +15,6 @@ pipeline {
 					echo Hello world
 					ls -la
 				'''
-				}
             }
         }
     }
